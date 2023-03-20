@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noor Mohammed Syed @RhFz1
 - 👀 I’m interested in AI , ML and Competitive Programming
-- 🌱 I’m currently learning Reinforcement Learning
+- 🌱 I’m currently exploring Reinforcement Learning
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me nooralifirst@gmail.com
 
